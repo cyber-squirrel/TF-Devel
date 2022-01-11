@@ -5,6 +5,7 @@
 Jupyter Notebooks:
 
 - Convolutional_Neural_Network_CNN.ipynb
+- Image_Classification.ipynb
 
 Shell scripts:
 
