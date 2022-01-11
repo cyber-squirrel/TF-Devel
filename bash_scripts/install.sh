@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "########################################################################################"
-echo "goFarm Machine Learning Installer (No GPU)"
+echo "TF Machine Learning Installer (No GPU)"
 echo "########################################################################################"
 echo ""
 echo "preparing for installation"
