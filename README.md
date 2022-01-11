@@ -4,7 +4,7 @@
 
 Jupyter Notebooks:
 
-- TF_GF_192022_JO.ipynb
+- Convolutional_Neural_Network_CNN.ipynb
 
 Shell scripts:
 
